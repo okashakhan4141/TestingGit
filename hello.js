@@ -1,1 +1,3 @@
-console.log("Hello Okasha!");
+function sayHellow() {
+  alert("Hi Okasha!");
+}
